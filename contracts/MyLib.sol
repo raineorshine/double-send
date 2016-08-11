@@ -1,0 +1,4 @@
+library MyLib {
+  function doNothing() {
+  }
+}
